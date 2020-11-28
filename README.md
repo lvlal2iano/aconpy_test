@@ -5,9 +5,9 @@
 
 # Crea una base de datos en MySQL llamada aconpy_test (el nombre queda a su criterio)
 
-# Debes Instalar Composer, segun la plataforma en la que trabajes esto se realia de diferentes maneras, asigurate de tenerlo como un PATH de entorno global, Mas estecificaciones en https://getcomposer.org/
+# Debes Instalar Composer, segun la plataforma en la que trabajes esto se realiza de diferentes maneras, asegurate de tenerlo como un PATH de entorno global, Mas estecificaciones en https://getcomposer.org/
 
-# Una vez que tengamos composer vamos a la carpeta donde clonamos el repositorio y realizamos:
+# Una vez que tengamos composer instalado vamos a la carpeta donde clonamos el repositorio y realizamos:
     $ composer install
 
 # Seguidamente corremos la siguiente linea
